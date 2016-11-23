@@ -9,7 +9,7 @@ string napis;
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
-
+asddasfgds
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
