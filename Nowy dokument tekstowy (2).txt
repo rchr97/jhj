@@ -8,7 +8,7 @@ int main (void)
 string napis;
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
-cout<<"Zapelnij zmienna string : ";
+cout<<"Zapelnij zmienna string : ";asfsdgvsfdgdsdsfs
 
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
@@ -34,7 +34,7 @@ cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
 
-cout<<"Zapelnij zmienna string : ";
+cout<<"Zapelnij zmienna string : ";dsfds
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
