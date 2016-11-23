@@ -4,9 +4,9 @@
 typedef char string[255];
 
 int main (void)
-{
+{gsfdgsd
 string napis;
-cout<<"Zapelnij zmienna string : ";
+cout<<"Zapelnij zmienna string : ";asfadsfgswd
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
 
