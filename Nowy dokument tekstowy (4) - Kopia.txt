@@ -2,31 +2,26 @@
 #include <conio.h>
 
 typedef char string[255];
-
+sdfsdgbh dgnjghkl
 int main (void)
 {
 string napis;
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
-
+;.
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
-cout<<"Zapelnij zmienna string : ";
-cout<<"Zapelnij zmienna string : ";
-cout<<"Zapelnij zmienna string : ";
-
-cout<<"Zapelnij zmienna string : ";
-cout<<"Zapelnij zmienna string : ";
+cout<<"Zapelnij zmienna string : ";jk
 cout<<"Zapelnij zmienna string : ";
 
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
 
-cout<<"Zapelnij zmienna string : ";
+cout<<"Zapelnij zmienna string : ";';ljlhja
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
