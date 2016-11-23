@@ -3,7 +3,7 @@
 
 typedef char string[255];
 
-int main (void)
+int main (void)rradek
 {
 string napis;
 cout<<"Zapelnij zmienna string : ";
