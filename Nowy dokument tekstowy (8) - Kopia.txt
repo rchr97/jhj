@@ -6,7 +6,7 @@ typedef char string[255];
 int main (void)
 {
 string napis;
-cout<<"Zapelnij zmienna string : ";
+cout<<"Zapelnij zmienna string : ";dsfsdgfsdsfasd
 cout<<"Zapelnij zmienna string : ";
 cout<<"Zapelnij zmienna string : ";
 
